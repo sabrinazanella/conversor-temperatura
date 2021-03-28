@@ -1,0 +1,32 @@
+body{
+  font-family: 'Roboto Mono',monospace;
+  height: 400px;
+  background-color: #3a0ca3;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  box-shadow: 1px 1px 4px black;
+}
+
+h2{
+  color: white;
+  font-size: 15pt;
+}
+
+h3{
+  color:white;
+  font-size: 16pt;
+  background-color: #FAB919;
+
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+
+
+
